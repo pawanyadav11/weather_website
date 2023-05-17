@@ -1,1 +1,1 @@
-# weather_website
+This is fully responsive Weather website created Using Html, CSS & Javascript. A weather website that tracks the weather of various location. It is created by using Weather API which is used to tell the weather of mutliple location.
